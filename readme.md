@@ -13,3 +13,7 @@ To solve this problem we have implemented the following model.
 After training the model, we got the following accuracy.
 
 <img src='fig/acc.png'>
+
+### Reference:
+1. https://github.com/tkipf/gcn
+2. http://networkrepository.com/
